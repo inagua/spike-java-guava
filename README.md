@@ -1,5 +1,7 @@
 #Spike for Guava library
 
+Part of all my Java projects: [https://github.com/inagua?tab=repositories&q=spike-java](https://github.com/inagua?tab=repositories&q=spike-java)
+
 ## See
 
 - http://www.infoq.com/presentations/Guava
