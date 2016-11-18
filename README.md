@@ -10,7 +10,7 @@ Part of all my Java projects: [https://github.com/inagua?tab=repositories&q=spik
 
 ## TODO
 
-- [x] `Optional<T>`
+- [x] `Optional<T>` ([sources](https://github.com/inagua/spike-java-guava/blob/master/src/test/java/ch/inagua/spike/java/guava/optional/OptionalTest.java))
 - [ ] `Multiset<T>`
 - [ ] `Table<R, C, V>`
 - [ ] `ImmutableList`, `ImmutableSet`, `ImmutableMap`
