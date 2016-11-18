@@ -8,7 +8,7 @@
 
 ## TODO
 
-- [ ] `Optional<T>`
+- [x] `Optional<T>`
 - [ ] `Multiset<T>`
 - [ ] `Table<R, C, V>`
 - [ ] `ImmutableList`, `ImmutableSet`, `ImmutableMap`
